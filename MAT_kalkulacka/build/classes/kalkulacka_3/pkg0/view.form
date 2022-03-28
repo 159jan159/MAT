@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="resizable" type="boolean" value="false"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jTextField1" alignment="0" max="32767" attributes="0"/>
+                  <Component id="jTextField2" alignment="0" max="32767" attributes="0"/>
+                  <Component id="jPanel1" alignment="1" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jTextField1" min="-2" pref="45" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="jTextField2" min="-2" pref="45" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="jPanel1" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JTextField" name="jTextField1">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField2">
+      <Properties>
+        <Property name="editable" type="boolean" value="false"/>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="4"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Component id="tlacitko5" pref="55" max="32767" attributes="0"/>
+                                  <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                                  <Component id="tlacitko4" pref="55" max="32767" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Component id="tlacitko3" pref="55" max="32767" attributes="0"/>
+                                  <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                                  <Component id="tlacitko1" pref="55" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace type="unrelated" min="-2" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Component id="tlacitko7" pref="55" max="32767" attributes="0"/>
+                                  <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                                  <Component id="tlacitko6" pref="55" max="32767" attributes="0"/>
+                              </Group>
+                              <Component id="tlacitko2" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Component id="tlacitko10" pref="55" max="32767" attributes="0"/>
+                          <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                          <Component id="tlacitko9" pref="55" max="32767" attributes="0"/>
+                          <EmptySpace type="unrelated" min="-2" max="-2" attributes="0"/>
+                          <Component id="tlacitko8" pref="55" max="32767" attributes="0"/>
+                          <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                          <Component id="tlacitko11" pref="55" max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Component id="tlacitko14" pref="55" max="32767" attributes="0"/>
+                          <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                          <Component id="tlacitko13" pref="55" max="32767" attributes="0"/>
+                          <EmptySpace type="unrelated" min="-2" max="-2" attributes="0"/>
+                          <Component id="tlacitko12" pref="55" max="32767" attributes="0"/>
+                          <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                          <Component id="tlacitko15" pref="55" max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <Component id="tlacitko18" pref="55" max="32767" attributes="0"/>
+                          <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                          <Component id="tlacitko17" pref="55" max="32767" attributes="0"/>
+                          <EmptySpace type="unrelated" min="-2" max="-2" attributes="0"/>
+                          <Component id="tlacitko16" pref="55" max="32767" attributes="0"/>
+                          <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                          <Component id="tlacitko19" pref="55" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="-2" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="tlacitko17" alignment="1" min="-2" pref="55" max="-2" attributes="0"/>
+                      <Component id="tlacitko18" alignment="1" min="-2" pref="55" max="-2" attributes="0"/>
+                      <Component id="tlacitko19" alignment="1" min="-2" pref="55" max="-2" attributes="0"/>
+                      <Component id="tlacitko16" alignment="1" min="-2" pref="55" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="tlacitko13" alignment="1" min="-2" pref="55" max="-2" attributes="0"/>
+                      <Component id="tlacitko14" alignment="1" min="-2" pref="55" max="-2" attributes="0"/>
+                      <Component id="tlacitko15" alignment="1" min="-2" pref="55" max="-2" attributes="0"/>
+                      <Component id="tlacitko12" alignment="1" min="-2" pref="55" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="tlacitko9" alignment="1" min="-2" pref="55" max="-2" attributes="0"/>
+                      <Component id="tlacitko10" alignment="1" min="-2" pref="55" max="-2" attributes="0"/>
+                      <Component id="tlacitko11" alignment="1" min="-2" pref="55" max="-2" attributes="0"/>
+                      <Component id="tlacitko8" alignment="1" min="-2" pref="55" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="tlacitko4" alignment="1" min="-2" pref="55" max="-2" attributes="0"/>
+                      <Component id="tlacitko5" alignment="1" min="-2" pref="55" max="-2" attributes="0"/>
+                      <Component id="tlacitko6" alignment="1" min="-2" pref="55" max="-2" attributes="0"/>
+                      <Component id="tlacitko7" alignment="1" min="-2" pref="55" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="tlacitko1" alignment="1" min="-2" pref="55" max="-2" attributes="0"/>
+                              <Component id="tlacitko3" alignment="1" min="-2" pref="55" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      </Group>
+                      <Component id="tlacitko2" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="kalkulacka_3.pkg0.tlacitko" name="tlacitko1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="18" style="1"/>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new kalkulacka_3.pkg0.tlacitko(new tlacitko_carka(),&quot;.&quot;,KeyEvent.VK_SEPARATOR)"/>
+          </AuxValues>
+        </Component>
+        <Component class="kalkulacka_3.pkg0.tlacitko" name="tlacitko13">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="18" style="1"/>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new kalkulacka_3.pkg0.tlacitko(new tlacitko_8(),&quot;8&quot;,KeyEvent.VK_8)"/>
+          </AuxValues>
+        </Component>
+        <Component class="kalkulacka_3.pkg0.tlacitko" name="tlacitko2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="18" style="1"/>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new kalkulacka_3.pkg0.tlacitko(new tlacitko_rovnase(),&quot;=&quot;,KeyEvent.VK_EQUALS)"/>
+          </AuxValues>
+        </Component>
+        <Component class="kalkulacka_3.pkg0.tlacitko" name="tlacitko8">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="18" style="1"/>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new kalkulacka_3.pkg0.tlacitko(new tlacitko_6(),&quot;6&quot;,KeyEvent.VK_6)"/>
+          </AuxValues>
+        </Component>
+        <Component class="kalkulacka_3.pkg0.tlacitko" name="tlacitko9">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="18" style="1"/>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new kalkulacka_3.pkg0.tlacitko(new tlacitko_5(),&quot;5&quot;,KeyEvent.VK_5)"/>
+          </AuxValues>
+        </Component>
+        <Component class="kalkulacka_3.pkg0.tlacitko" name="tlacitko11">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="18" style="1"/>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new kalkulacka_3.pkg0.tlacitko(new tlacitko_minus(),&quot;-&quot;,KeyEvent.VK_MINUS)"/>
+          </AuxValues>
+        </Component>
+        <Component class="kalkulacka_3.pkg0.tlacitko" name="tlacitko16">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="18" style="1"/>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new kalkulacka_3.pkg0.tlacitko(new tlacitko_DEL(),&quot;&lt;-&quot;,KeyEvent.VK_BACK_SPACE)"/>
+          </AuxValues>
+        </Component>
+        <Component class="kalkulacka_3.pkg0.tlacitko" name="tlacitko7">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="18" style="1"/>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new kalkulacka_3.pkg0.tlacitko(new tlacitko_3(),&quot;3&quot;,KeyEvent.VK_3)"/>
+          </AuxValues>
+        </Component>
+        <Component class="kalkulacka_3.pkg0.tlacitko" name="tlacitko5">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="18" style="1"/>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new kalkulacka_3.pkg0.tlacitko(new tlacitko_1(),&quot;1&quot;,KeyEvent.VK_1)"/>
+          </AuxValues>
+        </Component>
+        <Component class="kalkulacka_3.pkg0.tlacitko" name="tlacitko17">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="18" style="1"/>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new kalkulacka_3.pkg0.tlacitko(new tlacitko_CE(),&quot;CE&quot;,KeyEvent.VK_C)"/>
+          </AuxValues>
+        </Component>
+        <Component class="kalkulacka_3.pkg0.tlacitko" name="tlacitko12">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="18" style="1"/>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new kalkulacka_3.pkg0.tlacitko(new tlacitko_9(),&quot;9&quot;,KeyEvent.VK_9)"/>
+          </AuxValues>
+        </Component>
+        <Component class="kalkulacka_3.pkg0.tlacitko" name="tlacitko6">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="18" style="1"/>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new kalkulacka_3.pkg0.tlacitko(new tlacitko_plus(),&quot;+&quot;,KeyEvent.VK_PLUS)"/>
+          </AuxValues>
+        </Component>
+        <Component class="kalkulacka_3.pkg0.tlacitko" name="tlacitko10">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="18" style="1"/>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new kalkulacka_3.pkg0.tlacitko(new tlacitko_4(),&quot;4&quot;,KeyEvent.VK_4)"/>
+          </AuxValues>
+        </Component>
+        <Component class="kalkulacka_3.pkg0.tlacitko" name="tlacitko3">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="18" style="1"/>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new kalkulacka_3.pkg0.tlacitko(new tlacitko_0(),&quot;0&quot;,KeyEvent.VK_0)"/>
+          </AuxValues>
+        </Component>
+        <Component class="kalkulacka_3.pkg0.tlacitko" name="tlacitko4">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="18" style="1"/>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new kalkulacka_3.pkg0.tlacitko(new tlacitko_2(),&quot;2&quot;,KeyEvent.VK_2)"/>
+          </AuxValues>
+        </Component>
+        <Component class="kalkulacka_3.pkg0.tlacitko" name="tlacitko19">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="18" style="1"/>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new kalkulacka_3.pkg0.tlacitko(new tlacitko_deleno(),&quot;/&quot;,KeyEvent.VK_DIVIDE)"/>
+          </AuxValues>
+        </Component>
+        <Component class="kalkulacka_3.pkg0.tlacitko" name="tlacitko15">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="18" style="1"/>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new kalkulacka_3.pkg0.tlacitko(new tlacitko_krat(),&quot;*&quot;,KeyEvent.VK_MULTIPLY)"/>
+          </AuxValues>
+        </Component>
+        <Component class="kalkulacka_3.pkg0.tlacitko" name="tlacitko18">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="18" style="1"/>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new kalkulacka_3.pkg0.tlacitko(new tlacitko_C(),&quot;C&quot;,KeyEvent.VK_DELETE)"/>
+          </AuxValues>
+        </Component>
+        <Component class="kalkulacka_3.pkg0.tlacitko" name="tlacitko14">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="18" style="1"/>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_CreateCodeCustom" type="java.lang.String" value="new kalkulacka_3.pkg0.tlacitko(new tlacitko_7(),&quot;7&quot;,KeyEvent.VK_7)"/>
+          </AuxValues>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
