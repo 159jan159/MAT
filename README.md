@@ -7,7 +7,14 @@ Simple GUI game of checkers
 ### Mat_gameOfLife
 [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life "More Info")
 ### Mat_kalkulacka
+Simple GUI calculator  
+Want to add more functions in future
 ### Mat_mineSweeper
+Simple GUI game of minesweeper
 ### Mat_pexeso
+GUI memory game with options
 ### Mat_piskvorky
+Gui Tic Tac Toe game with options
 ### Mat_sibenice
+Simple gui gallows game
+> bug 
